@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision
+timm
+numpy
+matplotlib
+opencv-python
+perlin-noise
+tqdm
+PyYAML

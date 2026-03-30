@@ -1,0 +1,17 @@
+paths:
+  train_patch_dir: "./Data_Patches/S128_Train"  
+  test_patch_dir: "./Data_Patches/S128_Test"    
+  ckpt_dir: "./Experiments/checkpoints"
+  log_dir: "./Experiments/logs"
+
+training:
+  batch_size: 32     # Sẵn sàng cho GPU xịn
+  lr: 0.0002
+  weight_decay: 0.0001
+  epochs: 50
+  patience: 10
+  device: "cuda"
+
+model:
+  img_size: 128
+  in_channels: 10
