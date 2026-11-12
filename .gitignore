@@ -1,0 +1,42 @@
+# Local environments, backups and developer tools
+.local/
+.tmp/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+configs/*.local.yaml
+
+# Research artifacts stay on disk; only directory documentation is versioned.
+data/**
+!data/**/
+!data/**/README.md
+outputs/**
+!outputs/**/
+!outputs/**/README.md
+*.pth
+*.pt
+*.joblib
+*.npy
+*.npz
+*.rar
+*.zip
+*.tif
+*.tiff
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

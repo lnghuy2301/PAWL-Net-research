@@ -1,0 +1,4 @@
+# The preserved Random Forest pickle records scikit-learn 1.8.0.
+# Install after the base package when inspecting that historical artifact:
+# python -m pip install -r requirements/rf-checkpoint.txt
+scikit-learn==1.8.0

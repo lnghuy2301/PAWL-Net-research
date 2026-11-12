@@ -1,0 +1,4 @@
+model,mae_celsius,rmse_celsius,r2,ssim,time_ms_per_patch,source
+Random Forest,5.3817,6.1559,0.0187,0.6086,392.02,Manuscript Table 2
+Swin-UNet,0.4852,1.2225,0.9617,0.9644,14.45,Manuscript Table 2
+PAWL-Net,0.4504,1.1815,0.9641,0.9679,7.42,Manuscript Table 2

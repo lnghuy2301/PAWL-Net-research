@@ -1,0 +1,1366 @@
+{
+  "patches": 8455,
+  "readable_patches": 8131,
+  "finite_patches": 8131,
+  "lst_entirely_below_293": 2393,
+  "lst_entirely_above_323": 0,
+  "over_70_percent_source_nodata": 8,
+  "zero_population_patches": 8131,
+  "source_nodata_pixels": 1442197,
+  "pixels": 133218304,
+  "invalid_files": [
+    {
+      "file": "RachGia_2024_m10_y256_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y256_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y256_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y256_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y256_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y320_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y384_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y448_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y512_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y576_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y640_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m10_y64_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y0_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y128_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y192_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y256_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y320_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y384_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y448_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y512_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y576_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y640_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m11_y64_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y0_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y128_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y192_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y256_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y320_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y384_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y448_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y512_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y576_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y640_x640.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x0.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x128.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x192.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x256.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x320.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x384.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x448.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x512.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x576.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x64.npy",
+      "error": "No data left in file"
+    },
+    {
+      "file": "RachGia_2024_m12_y64_x640.npy",
+      "error": "No data left in file"
+    }
+  ],
+  "shapes": {
+    "(128, 128, 9)": 8131
+  },
+  "channel_ranges": {
+    "LST_Kelvin": {
+      "minimum": 0.0,
+      "maximum": 347.99371337890625
+    },
+    "NDVI": {
+      "minimum": -0.9998534321784973,
+      "maximum": 0.9999502897262573
+    },
+    "NDBI": {
+      "minimum": -0.9998955726623535,
+      "maximum": 0.9997296333312988
+    },
+    "MNDWI": {
+      "minimum": -0.9998981356620789,
+      "maximum": 0.9998213648796082
+    },
+    "Albedo": {
+      "minimum": -0.120785653591156,
+      "maximum": 0.835168719291687
+    },
+    "Emissivity": {
+      "minimum": 0.0,
+      "maximum": 0.9900000095367432
+    },
+    "Dist_Water": {
+      "minimum": 0.0,
+      "maximum": 4600.0888671875
+    },
+    "Elevation": {
+      "minimum": -51.0,
+      "maximum": 94.0
+    },
+    "Population": {
+      "minimum": 0.0,
+      "maximum": 0.0
+    }
+  },
+  "readable_city_year": {
+    "CanTho_2023": 1452,
+    "CanTho_2024": 1331,
+    "LongXuyen_2023": 1452,
+    "LongXuyen_2024": 1367,
+    "RachGia_2023": 1401,
+    "RachGia_2024": 1128
+  },
+  "listed_city_year": {
+    "CanTho_2023": 1452,
+    "CanTho_2024": 1331,
+    "LongXuyen_2023": 1452,
+    "LongXuyen_2024": 1367,
+    "RachGia_2023": 1401,
+    "RachGia_2024": 1452
+  }
+}

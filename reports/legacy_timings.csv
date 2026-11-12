@@ -1,0 +1,4 @@
+model,time_ms_per_patch,source
+PAWL-Net,7.416,Original UNet_Inpainting.ipynb saved output cell 7
+Swin-UNet,14.452,Original UNet_Inpainting.ipynb saved output cell 7
+Random Forest,392.023,Original UNet_Inpainting.ipynb saved output cell 7

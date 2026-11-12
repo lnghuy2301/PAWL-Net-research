@@ -1,0 +1,68 @@
+KẾT QUẢ ĐÁNH GIÁ SWIN-UNET TRÊN TẬP TEST (2023 - 2024):
+   - Số lượng pixel bị mây che đã đánh giá: 36,730,852
+   - Sai số tuyệt đối trung bình (MAE) : 0.4966 °C
+   - Sai số bình phương trung bình (RMSE): 1.2521 °C
+   - Hệ số xác định (R²)               : 0.9595
+
+   - Số lượng pixel bị mây che đã đánh giá: 36,697,992
+   - Sai số tuyệt đối trung bình (MAE) : 0.5030 °C
+   - Sai số bình phương trung bình (RMSE): 1.2514 °C
+   - Hệ số xác định (R²)               : 0.9602
+   - Chỉ số tương đồng cấu trúc (SSIM) : 0.9633
+
+   - Số lượng pixel bị mây che đã đánh giá: 37,101,299
+   - Sai số tuyệt đối trung bình (MAE) : 0.4852 °C
+   - Sai số bình phương trung bình (RMSE): 1.2225 °C
+   - Hệ số xác định (R²)               : 0.9617
+   - Chỉ số tương đồng cấu trúc (SSIM) : 0.9644
+
+KẾT QUẢ ĐÁNH GIÁ STANDARD U-NET (BASELINE 2):
+   - Số lượng pixel bị mây che đã đánh giá: 36,730,852
+   - Sai số tuyệt đối trung bình (MAE) : 0.4660 °C
+   - Sai số bình phương trung bình (RMSE): 1.1932 °C
+   - Hệ số xác định (R²)               : 0.9636
+
+   - Số lượng pixel bị mây che đã đánh giá: 36,942,013
+   - Sai số tuyệt đối trung bình (MAE) : 0.4700 °C
+   - Sai số bình phương trung bình (RMSE): 1.1967 °C
+   - Hệ số xác định (R²)               : 0.9637
+   - Chỉ số tương đồng cấu trúc (SSIM) : 0.9661
+
+   - Số lượng pixel bị mây che đã đánh giá: 37,011,328
+   - Sai số tuyệt đối trung bình (MAE) : 0.4504 °C
+   - Sai số bình phương trung bình (RMSE): 1.1815 °C
+   - Hệ số xác định (R²)               : 0.9641
+   - Chỉ số tương đồng cấu trúc (SSIM) : 0.9679
+
+KẾT QUẢ ĐÁNH GIÁ RANDOM FOREST (BASELINE 1):
+   - Số lượng pixel bị mây che đã đánh giá: 36,684,669
+   - Sai số tuyệt đối trung bình (MAE) : 5.3817 °C
+   - Sai số bình phương trung bình (RMSE): 6.1559 °C
+   - Hệ số xác định (R²)               : 0.0187
+   - Chỉ số tương đồng cấu trúc (SSIM) : 0.6086
+
+   - Số pixel bị mây che đánh giá : 36,632,668
+   - MAE  : 5.4040 °C
+   - RMSE : 6.1843 °C
+   - R²   : 0.0189
+   - SSIM : 0.6090
+
+============================================================================
+
+KẾT QUẢ: U-NET 2 KÊNH + L1 LOSS
+   - MAE  : 0.4644 °C
+   - RMSE : 1.2155 °C
+   - R²   : 0.9619
+   - SSIM : 0.9669
+
+KẾT QUẢ: U-NET 2 KÊNH + AUTO LOSS
+   - MAE  : 0.4533 °C
+   - RMSE : 1.1769 °C
+   - R²   : 0.9647
+   - SSIM : 0.9675
+
+KẾT QUẢ: U-NET 10 KÊNH + L1 LOSS
+   - MAE  : 0.4669 °C
+   - RMSE : 1.2061 °C
+   - R²   : 0.9630
+   - SSIM : 0.9664

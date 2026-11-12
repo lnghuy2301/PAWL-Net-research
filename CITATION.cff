@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this research implementation, please cite the associated PAWL-Net manuscript. Publication details have not been verified."
+type: software
+title: "PAWL-Net research implementation"
+version: 0.1.0
+repository-code: https://github.com/lnghuy2301/PAWL-Net-research
+repository-code: https://github.com/lnghuy2301/PAWL-Net-research
+authors:
+  - family-names: Le-Nguyen
+    given-names: Gia Huy
+    orcid: https://orcid.org/0009-0001-1154-1035
+    affiliation: "Department of Computer Science, School of Information and Communication Technology, Can Tho University"
+  - family-names: Ly
+    given-names: Trung Nguyen
+    orcid: https://orcid.org/0009-0009-4480-264X
+    affiliation: "Department of Land Resource, College of Environment and Natural Resources, Can Tho University"
+  - family-names: Nguyen Thai-Nghe
+    orcid: https://orcid.org/0000-0002-9127-2778
+    affiliation: "Department of Information Systems, School of Information and Communication Technology, Can Tho University"
+preferred-citation:
+  type: unpublished
+  title: "PAWL-Net: A Physics-Aware Inpainting Network with Automatic Loss Weighting for Cloud-Obscured Land Surface Temperature Reconstruction"
+  authors:
+    - family-names: Le-Nguyen
+      given-names: Gia Huy
+      orcid: https://orcid.org/0009-0001-1154-1035
+    - family-names: Ly
+      given-names: Trung Nguyen
+      orcid: https://orcid.org/0009-0009-4480-264X
+    - family-names: Nguyen Thai-Nghe
+      orcid: https://orcid.org/0000-0002-9127-2778
+  notes: "Metadata transcribed from the supplied PDF. No publication venue, year, or DOI is specified; unpublished is a provisional citation category, not a verified submission status. The third author name is preserved verbatim without inferring name components."
