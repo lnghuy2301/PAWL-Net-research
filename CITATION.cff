@@ -4,7 +4,6 @@ type: software
 title: "PAWL-Net research implementation"
 version: 0.1.0
 repository-code: https://github.com/lnghuy2301/PAWL-Net-research
-repository-code: https://github.com/lnghuy2301/PAWL-Net-research
 authors:
   - family-names: Le-Nguyen
     given-names: Gia Huy

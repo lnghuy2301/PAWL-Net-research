@@ -24,10 +24,6 @@ dependencies = [
 Repository = "https://github.com/lnghuy2301/PAWL-Net-research"
 Issues = "https://github.com/lnghuy2301/PAWL-Net-research/issues"
 
-[project.urls]
-Repository = "https://github.com/lnghuy2301/PAWL-Net-research"
-Issues = "https://github.com/lnghuy2301/PAWL-Net-research/issues"
-
 [project.optional-dependencies]
 swin = ["timm>=1.0,<2", "torchvision>=0.18,<1"]
 notebooks = ["jupyterlab>=4,<5", "matplotlib>=3.7,<4"]
